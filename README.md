@@ -1,44 +1,66 @@
-## 👋 Hi there, I’m Tyler Moore
+👋 Hi, I'm Tyler Moore
+Solutions Engineer | FinTech Consultant | Technical Leader
 
-**Founder & Lead Developer at Moore Tech, LLC**, serving retail and institutional traders since 2005
-📍 Orlando, FL • Specializing in custom trading software, indicators & strategies • Expert with NinjaTrader, TradeStation, MultiCharts, MetaTrader, and Interactive Brokers TWS API
+Founder of Moore Tech, LLC with 20+ years of experience designing, implementing, and supporting technology solutions for retail traders, institutional firms, and financial professionals worldwide.
 
----
+Over the course of my career, I've worked with more than 1,500 clients, helping them translate complex business requirements into reliable software solutions. My background combines software architecture, customer consulting, solution delivery, technical training, and financial market expertise.
 
-### 🔧 Skills & Tools
+Based in Orlando, Florida.
 
-**Programming & Trading Languages:**  
-C# (NinjaScript), EasyLanguage (TradeStation), MQL4 • Significant experience with VB, JavaScript (Node.js/jQuery), PHP, HTML/CSS
+What I Do
+Design and implement custom software solutions using C# and .NET
+Architect integrations with trading platforms, APIs, and real-time market data systems
+Translate business requirements into scalable technical solutions
+Lead customer discovery, solution design, onboarding, and technical training
+Support clients throughout the full solution lifecycle
+Areas of Expertise
+Technical
+C# / .NET
+Solution Architecture
+API Integrations
+Trading Systems
+Real-Time Data Processing
+NinjaTrader (NinjaScript)
+TradeStation (EasyLanguage)
+MetaTrader (MQL4)
+Interactive Brokers API
+REST APIs
+SQL Databases
+Customer-Facing
+Solutions Engineering
+Technical Consulting
+Customer Success
+Technical Account Management
+Product Demonstrations
+Requirements Discovery
+Client Onboarding
+Technical Training
+Career Highlights
+Founder and Lead Consultant of Moore Tech, LLC
+Served 1,500+ clients worldwide
+Delivered thousands of custom software solutions
+Certified NinjaScript Consultant since 2008
+Former CTO, Systems Developer, and Branch Manager within the futures and commodities industry
+Licensed commodities broker early in career
+Industries
+Financial Technology (FinTech)
+Trading Platforms
+Market Data Systems
+Algorithmic Trading
+Software Consulting
+Customer-Facing Technical Services
+Current Interests
 
-**Platforms & APIs:**  
-NinjaTrader (since 2008), TradeStation (EasyLanguage since 2001), MultiCharts, MetaTrader, IB‑TWS API (programming since 2007)
+I'm particularly interested in opportunities involving:
 
-**Frameworks & Libraries:**  
-Accord.NET (custom financial indicators, analytics, image/audio processing)
+Solutions Engineering
+Technical Account Management
+Customer Success Engineering
+FinTech Infrastructure
+Cybersecurity Technology
+SaaS Platforms
+Connect
 
-**Database & Integrations:**  
-SQL databases, RESTful API integrations, proprietary indicator and strategy libraries
+Website: mooretechllc.com
 
-**Development Tools & IDEs:**  
-Expert-level with Visual Studio; Git version control (recently adopted)
-
----
-
-### 🧩 What I Do
-
-- Build **custom indicators, strategies, and trading tools** for NinjaTrader (NT7 & NT8), TradeStation, MultiCharts, MetaTrader, and IB‑TWS
-- Deliver **one-on-one consulting sessions** (remote screen share) to define and develop trading systems live — ensuring clarity, functionality, and confidentiality
-- Leverage **proprietary libraries and years of trading experience** to deliver projects rapidly—with most completed within 2 business days
-
----
-
-### 💡 Why Work With Me
-
-With over 20 years of full-time programming and real trading experience (licensed broker at 18, CTA development), I’ve built and refined thousands of trading systems—from retail tools to institutional-grade automation
-My code delivery is fast, cost-effective, and fully owned by the client (full IP rights), with confidentiality strictly honored (NDAs available)
-
----
-
-### 📩 Let’s Connect
-
-Explore my work at [mooretechllc.com](https://www.mooretechllc.com) or reach out via GitHub — typically same/business-day response with fixed-price quotes and detailed next steps.
+Always interested in discussing technology, financial markets, software architecture, and customer-focused technical solutions.
